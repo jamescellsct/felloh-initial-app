@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0cbfee3b-6e18-4756-9c32-10ec95f4d9b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +36,9 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1cFuD057nbv7iil5DTeJOoxLywz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/components/Shared" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -36,6 +57,9 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/components/Shared" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/app/containers/HomePage" />
     </key>
@@ -100,39 +124,54 @@
       <option name="presentableId" value="Default" />
       <updated>1590136539308</updated>
       <workItem from="1590136548403" duration="467000" />
-      <workItem from="1590137131087" duration="4352000" />
+      <workItem from="1590137131087" duration="6596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="-2839" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590137557730">
       <screen x="-3200" y="23" width="1920" height="1006" />
     </state>
     <state x="-2839" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1006@-3200.23.1920.1006" timestamp="1590137557730" />
-    <state width="1772" height="271" key="GridCell.Tab.0.bottom" timestamp="1590150239198">
-      <screen x="-3200" y="23" width="1920" height="1005" />
+    <state width="1772" height="271" key="GridCell.Tab.0.bottom" timestamp="1590154538887">
+      <screen x="-3200" y="23" width="1920" height="1004" />
     </state>
+    <state width="1772" height="271" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1004@-3200.23.1920.1004" timestamp="1590154538887" />
     <state width="1772" height="271" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1005@-3200.23.1920.1005" timestamp="1590150239198" />
     <state width="1772" height="271" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1006@-3200.23.1920.1006" timestamp="1590147991708" />
     <state width="1772" height="271" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1008@-3200.23.1920.1008" timestamp="1590144262227" />
-    <state width="1772" height="271" key="GridCell.Tab.0.center" timestamp="1590150239193">
-      <screen x="-3200" y="23" width="1920" height="1005" />
+    <state width="1772" height="271" key="GridCell.Tab.0.center" timestamp="1590154538878">
+      <screen x="-3200" y="23" width="1920" height="1004" />
     </state>
+    <state width="1772" height="271" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1004@-3200.23.1920.1004" timestamp="1590154538878" />
     <state width="1772" height="271" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1005@-3200.23.1920.1005" timestamp="1590150239193" />
     <state width="1772" height="271" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1006@-3200.23.1920.1006" timestamp="1590147991706" />
     <state width="1772" height="271" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1008@-3200.23.1920.1008" timestamp="1590144262223" />
-    <state width="1772" height="271" key="GridCell.Tab.0.left" timestamp="1590150239190">
-      <screen x="-3200" y="23" width="1920" height="1005" />
+    <state width="1772" height="271" key="GridCell.Tab.0.left" timestamp="1590154538877">
+      <screen x="-3200" y="23" width="1920" height="1004" />
     </state>
+    <state width="1772" height="271" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1004@-3200.23.1920.1004" timestamp="1590154538877" />
     <state width="1772" height="271" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1005@-3200.23.1920.1005" timestamp="1590150239190" />
     <state width="1772" height="271" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1006@-3200.23.1920.1006" timestamp="1590147991705" />
     <state width="1772" height="271" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1008@-3200.23.1920.1008" timestamp="1590144262218" />
-    <state width="1772" height="271" key="GridCell.Tab.0.right" timestamp="1590150239197">
-      <screen x="-3200" y="23" width="1920" height="1005" />
+    <state width="1772" height="271" key="GridCell.Tab.0.right" timestamp="1590154538883">
+      <screen x="-3200" y="23" width="1920" height="1004" />
     </state>
+    <state width="1772" height="271" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1004@-3200.23.1920.1004" timestamp="1590154538883" />
     <state width="1772" height="271" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1005@-3200.23.1920.1005" timestamp="1590150239197" />
     <state width="1772" height="271" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1006@-3200.23.1920.1006" timestamp="1590147991707" />
     <state width="1772" height="271" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1057/-3200.23.1920.1008@-3200.23.1920.1008" timestamp="1590144262225" />
