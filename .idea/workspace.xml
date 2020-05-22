@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cbfee3b-6e18-4756-9c32-10ec95f4d9b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/containers/HomePage/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/Shared/Button.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/containers/HomePage/index.tsx" afterDir="false" />
     </list>
@@ -124,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590136539308</updated>
       <workItem from="1590136548403" duration="467000" />
-      <workItem from="1590137131087" duration="6596000" />
+      <workItem from="1590137131087" duration="7400000" />
     </task>
     <servers />
   </component>

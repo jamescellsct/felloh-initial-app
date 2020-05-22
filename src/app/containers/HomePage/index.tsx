@@ -7,6 +7,7 @@ import { ReactComponent as FooterIcon } from './assets/footer.svg';
 import { SubTitle } from '../../components/Shared/SubTitle';
 import { Title } from '../../components/Shared/Title';
 import { P } from '../../components/Shared/P';
+import { PrimaryButton } from '../../components/Shared/Button';
 import './styles.css';
 
 const Container = styled.div`
@@ -55,6 +56,7 @@ export function HomePage() {
             Join our mission to divert $1 billion of costs to great social
             purpose.
           </P>
+          <PrimaryButton>Hi</PrimaryButton>
           <FooterIcon />
         </BottomContainer>
       </Container>
